@@ -60,7 +60,7 @@ app.post("/bfhl", (req, res) => {
 
     res.json({
       is_success: true,
-      user_id: "pranjal_gupta_01011999",
+      user_id: "pranjal_gupta",
       email: "abhayg980@gmail.com",
       roll_number: "0101CS211097",
       numbers,
